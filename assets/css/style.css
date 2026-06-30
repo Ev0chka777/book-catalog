@@ -1,0 +1,5 @@
+/*Стиль обложек*/
+.card-img-top {
+height: 250px;
+object-fit: cover;
+}
